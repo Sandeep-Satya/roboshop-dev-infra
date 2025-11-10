@@ -1,6 +1,0 @@
-00-vpc/.terraform/providers/registry.terraform.io/hashicorp/aws/6.16.0/windows_amd64/terraform-provider-aws_v6.16.0_x5.exe filter=lfs diff=lfs merge=lfs -text
-10-sg/.terraform/providers/registry.terraform.io/hashicorp/aws/6.16.0/windows_amd64/terraform-provider-aws_v6.16.0_x5.exe filter=lfs diff=lfs merge=lfs -text
-20-bastion/.terraform/providers/registry.terraform.io/hashicorp/aws/6.16.0/windows_amd64/terraform-provider-aws_v6.16.0_x5.exe filter=lfs diff=lfs merge=lfs -text
-30-sg-rules/.terraform/providers/registry.terraform.io/hashicorp/aws/6.16.0/windows_amd64/terraform-provider-aws_v6.16.0_x5.exe filter=lfs diff=lfs merge=lfs -text
-50-backend-alb/.terraform/providers/registry.terraform.io/hashicorp/aws/6.16.0/windows_amd64/terraform-provider-aws_v6.16.0_x5.exe filter=lfs diff=lfs merge=lfs -text
-*.mov filter=lfs diff=lfs merge=lfs -text
